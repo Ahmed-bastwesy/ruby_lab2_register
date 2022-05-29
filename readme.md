@@ -1,5 +1,5 @@
 # Ruby lab2
-##to run task
+## to run task
 ### ruby register_form.rb 
 #### details of task
 - person.rb
