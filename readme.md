@@ -1,7 +1,7 @@
-#### Ruby lab2
-### to run task
-## ruby register_form.rb 
-# details of task
+# Ruby lab2
+##to run task
+### ruby register_form.rb 
+#### details of task
 - person.rb
 * class of Person and name attribute and valid_name function
 - user.rb
